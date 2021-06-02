@@ -1,7 +1,6 @@
 # Google-Meet-Clone
 
-It's my very first Hack-A-Thon. Which is oragnised by HyperVerge Academy (A part of HyperVerse Inc.). In this Hack-A-Thon our Team ( Nivedya M, Sonu Shakya and Rishabh Sharma ) selects Google Meet Clone to do as a Project. 
-In this project, We used following technologies -
+This is my first hack-a-thon. Organized by HyperVerge Academy (a part of HyperVerse Inc.). In this hack-a-thon, Our team (Nivedya M, Sonu Shakya, and Rishabh Sharma) selects a **Google Meet clone** to do as a project. In this project, we used the following techniques -
 
 Frontend Stack :- 
 
