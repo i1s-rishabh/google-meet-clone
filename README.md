@@ -13,7 +13,7 @@ This project is our submission for the HyperVerge Academy Hackathon, organized b
 
 ## Introduction
 
-Our project aims to replicate the core functionalities of Google Meet, providing users with a platform for video conferencing, screen sharing, and real-time communication. It uses a combination of HTML/CSS for the frontend and React for the user interface, while the backend relies on WebRTC, Socket.io, PeerJS, and Redis to handle video calls, signaling, and data sharing.
+Our project aims to replicate the core functionalities of Google Meet, providing users with a platform for video conferencing and real-time communication. It uses a combination of HTML/CSS for the frontend and React for the user interface, while the backend relies on WebRTC, Socket.io, PeerJS, and Redis to handle video calls, signaling, and data sharing.
 
 ## Technologies Used
 
@@ -32,10 +32,7 @@ Our project aims to replicate the core functionalities of Google Meet, providing
 Our Google Meet clone offers the following features:
 - **Video Conferencing**: Users can initiate and join video conferences with multiple participants.
 - **Audio and Video Control**: Ability to mute/unmute audio and enable/disable video during calls.
-- **Screen Sharing**: Share your screen with other participants for presentations or collaborative work.
 - **Real-time Chat**: In-meeting chat for text-based communication.
-- **Meeting Recording**: Record and save meetings for future reference.
-- **User Authentication**: Secure user authentication to join meetings.
 - **Invite Participants**: Share a meeting link or code to invite others.
 
 ## Getting Started
@@ -78,8 +75,8 @@ Follow these steps to set up the project locally:
 
 1. Register or log in to your account.
 2. Create a new meeting or join an existing one using a meeting link or code.
-3. Enjoy video conferencing, screen sharing, and real-time communication with your participants.
-4. Explore other features like chat, meeting recording, and more.
+3. Enjoy video conferencing and real-time communication with your participants.
+4. Explore other feature like live chat.
 
 ## Contributing
 
